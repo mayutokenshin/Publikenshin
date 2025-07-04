@@ -2,38 +2,52 @@
     "tiendas": [
         {
             "id": 1,
-            "nombre": "Moda Elegante",
+            "nombre": "Luna Negra Shop",
             "logo": "https://images.unsplash.com/photo-1593642634524-b40b5baae6bb?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
-            "numero": "1234567890",
+            "numero": "5351445167",
             "productos": [
                 {
                     "id": 101,
-                    "nombre": "Vestido Floral Verano",
-                    "precio": 45.99,
-                    "imagen": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-                    "mensaje": "Hola, estoy interesado en el Vestido Floral Verano. ¿Tienen talla M disponible?"
+                    "nombre": "Audifonos Alámbricos",
+                    "precio": 400,
+                    "imagen": "https://http2.mlstatic.com/D_NQ_NP_729416-MCO50699789939_072022-O.webp",
+                    "mensaje": "Hola, estoy interesado en los Audifonos Alámbricos."
                 },
                 {
                     "id": 102,
-                    "nombre": "Camisa de Lino Premium",
-                    "precio": 32.50,
+                    "nombre": "Smart Watch H13",
+                    "precio": 4500,
                     "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-                    "mensaje": "Hola, quiero información sobre la Camisa de Lino Premium. ¿Tienen varios colores?"
+                    "mensaje": "Hola, quiero información sobre los Smart Watch H13."
+                }
+				{
+                    "id": 103,
+                    "nombre": "Vibradores Ballenita",
+                    "precio": 7000,
+                    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+                    "mensaje": "Hola, quiero información sobre el juguete sexual Vibrador Ballenita."
+                }
+				{
+                    "id": 104,
+                    "nombre": "Relojes Geneva",
+                    "precio": 1500,
+                    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+                    "mensaje": "Hola, quiero información sobre los Relojes Geneva."
                 }
             ]
         },
         {
             "id": 2,
-            "nombre": "TecnoShop",
+            "nombre": "GhoticShop",
             "logo": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
-            "numero": "0987654321",
+            "numero": "5351445167",
             "productos": [
                 {
                     "id": 201,
                     "nombre": "Auriculares Bluetooth Pro",
-                    "precio": 89.99,
+                    "precio": 3500,
                     "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-                    "mensaje": "Hola, quiero comprar los Auriculares Bluetooth Pro. ¿Tienen descuento por pago en efectivo?"
+                    "mensaje": "Hola, quiero comprar los Auriculares Bluetooth Pro."
                 }
             ]
         }
