@@ -8,17 +8,31 @@
             "productos": [
                 {
                     "id": 101,
-                    "nombre": "Vestido Floral Verano",
+                    "nombre": "Auriculares Alámbricos",
                     "precio": 45.99,
-                    "imagen": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-                    "mensaje": "Hola, estoy interesado en el Vestido Floral Verano. ¿Tienen talla M disponible?"
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6MkunKxZWuBS6A_rGSneSzU0l9tLaXihYg&s",
+                    "mensaje": "Hola, estoy interesado en los Auriculares Alámbricos"
                 },
                 {
                     "id": 102,
-                    "nombre": "Camisa de Lino Premium",
+                    "nombre": "Vibrador Ballenita",
                     "precio": 32.50,
-                    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-                    "mensaje": "Hola, quiero información sobre la Camisa de Lino Premium. ¿Tienen varios colores?"
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBMem6egmbc4wY-ZxpUpFQ9GIF0_TF6k27g&s",
+                    "mensaje": "Hola, quiero información sobre el Vibrador Ballenita"
+                }
+				{
+                    "id": 103,
+                    "nombre": "Smart Watch H13",
+                    "precio": 32.50,
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWm7Hsz_4_PMxylJUaotpkFcNBYN45kRAo5g&s",
+                    "mensaje": "Hola, quiero información sobre el Smart Watch H13."
+                }
+				{
+                    "id": 104,
+                    "nombre": "Reloj Geneva",
+                    "precio": 32.50,
+                    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2_-wf16CDN3aaNholG771aRdwk6Zbhhu3w&s",
+                    "mensaje": "Hola, quiero información sobre el Reloj Geneva."
                 }
             ]
         },
